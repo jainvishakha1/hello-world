@@ -1,10 +1,14 @@
 package test.git;
 
+import org.testng.annotations.Test;
+
 public class demo {
 	
-	 public static void main( String[] args )
+	 @Test
+	 public static void det( )
 	    {
 	        System.out.println( "Hello World!" );
+	        System.out.println( "my project" );
 	    }
 
 }
