@@ -1,4 +1,4 @@
-package test.git;
+package test;
 
 import org.testng.annotations.Test;
 

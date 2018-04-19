@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="test.git.demo"/>
+      <class name="test.demo2"/>
+      <class name="test.demo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
